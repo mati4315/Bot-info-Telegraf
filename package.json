@@ -1,0 +1,11 @@
+{
+  "name": "bot-info-telegraf",
+  "version": "1.0.0",
+  "description": "Bot para obtener info desde la Api del servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Moreira",
+  "license": "ISC"
+}
